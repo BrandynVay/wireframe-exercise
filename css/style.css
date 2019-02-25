@@ -1,7 +1,7 @@
 header img {
-  height: 80px;
-  padding: 15px;
-  margin-left: 27%;
+  display: block;
+  margin-left: 10%;
+  margin-right: auto;
 }
 
 header {
@@ -9,15 +9,16 @@ header {
   top: 0;
   left: 0;
   right: 0;
+  padding: 15px;
   height: 80px;
   display: flex;
   align-items: center;
 }
 
 header ul {
-  list-style-type: none;
-  margin: 12px;
-  padding: 13px;
+  float: left;
+  margin-left: 0;
+  margin-right: 250px;
   overflow: hidden;
   background-color: #333;
 }
@@ -27,29 +28,59 @@ li {
 }
   
 li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 15px 15px;
+  color: #999;
+  margin-left: 10px;
+  margin-right: 15px;
+  padding: 30px 30px;
 }
   
 li a:hover {
   background-color: #111;
 }
 
-header img:hover {
-  background-color: #111
+main img {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px; 
+  padding-top: 15px
 }
 
-main img{
-  margin: auto;
-  border: 3px;
-  padding: 15px;
+main ul {
+  display: inline-block;
+  margin-top: 0%;
+  margin-left: 11.2%;
+  margin-right: auto;
 }
 
 section img {
-  margin: auto;
-  border: 3px;
-  padding: 15px;
+  display: block;
+  margin-right: auto;
+  padding-left: 12.3%;
+  padding-top: 15px
+}
+
+section p {
+  display: flex;
+  overflow: scroll;
+  margin-top: 1%;
+  margin-left: 53%;
+  margin-right: 15%;
+  padding-bottom: 20px;
+  width: 32%;
+  height: 50%;
+  height: 340px;
+}
+
+h2 {
+  margin-top: -32%;
+  margin-left: 52%;
+  margin-right: 15%;
+}
+
+button {
+  margin-top: -32%;
+  margin-left: 52%;
+  margin-right: 15%;
 }
 
