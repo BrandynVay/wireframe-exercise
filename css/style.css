@@ -1,6 +1,6 @@
 header img {
   display: block;
-  margin-left: 10%;
+  margin-left: 23%;
   margin-right: auto;
 }
 
@@ -19,7 +19,7 @@ header {
 header ul {
   float: left;
   margin-left: 0;
-  margin-right: 250px;
+  margin-right: 400px;
   overflow: hidden;
   background-color: #333;
 }
@@ -50,22 +50,22 @@ main img {
 main ul {
   display: inline-block;
   margin-top: 0%;
-  margin-left: 11.2%;
+  margin-left: 20.6%;
   margin-right: auto;
 }
 
 section img {
   display: block;
   margin-right: auto;
-  padding-left: 12.3%;
+  padding-left: 21.5%;
   padding-top: 15px
 }
 
 section p {
   display: flex;
   overflow: scroll;
-  margin-top: 1%;
-  margin-left: 53%;
+  margin-top: 0.5%;
+  margin-left: 52.4%;
   margin-right: 15%;
   padding-bottom: 20px;
   width: 32%;
@@ -74,8 +74,8 @@ section p {
 }
 
 h2 {
-  margin-top: -32%;
-  margin-left: 52%;
+  margin-top: -23.7%;
+  margin-left: 52.3%;
   margin-right: 15%;
 }
 
